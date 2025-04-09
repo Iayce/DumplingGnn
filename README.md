@@ -1,9 +1,9 @@
 # DumplingGNN: Hybrid GNN for ADC Payload Activity Prediction
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-370/)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/DumplingGNN.svg)](https://github.com/yourusername/DumplingGNN/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/DumplingGNN.svg)](https://github.com/yourusername/DumplingGNN/issues)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/release/python-3100/)
+[![GitHub stars](https://img.shields.io/github/stars/Iayce/DumplingGnn.svg)](https://github.com/Iayce/DumplingGnn/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/Iayce/DumplingGnn.svg)](https://github.com/Iayce/DumplingGnn/issues)
 
 This repository contains the implementation of DumplingGNN, a hybrid Graph Neural Network designed to predict ADC (Antibody-Drug Conjugate) payload activity based on chemical structure.
 
@@ -70,8 +70,8 @@ These baselines help evaluate the advantages of DumplingGNN's hybrid architectur
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/dumpling-gnn.git
-cd dumpling-gnn
+git clone https://github.com/Iayce/DumplingGnn.git
+cd DumplingGnn
 ```
 
 2. Install dependencies:
@@ -79,7 +79,7 @@ cd dumpling-gnn
 pip install -r requirements.txt
 ```
 
-Note: This requires Python 3.7 or higher.
+Note: This requires Python 3.10 or higher.
 
 ## Usage
 
